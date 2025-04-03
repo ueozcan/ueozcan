@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uğur Enes Özcan</h1>
 <h3 align="center">Passionate data analyst & statistician from Türkiye, skilled in Python, R, and SQL. Enthusiastic about data-driven decision making, statistical modeling, and machine learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ueozcan&label=Profile%20views&color=0e75b6&style=flat" alt="ueozcan" /> </p>
-
 - 🔭 I’m currently working on **SQL**
 
 - 💬 Ask me about **SPSS, R and Python**
@@ -15,3 +13,4 @@
 <a href="https://kaggle.com/ugrenss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ugrenss" height="30" width="40" /></a>
 <a href="https://instagram.com/ugrenesozc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ugrenesozc" height="30" width="40" /></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ueozcan&label=Profile%20views&color=0e75b6&style=flat" alt="ueozcan" /> </p>
